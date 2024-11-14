@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #12c255b0;
-    background-image: url(/public/images/hello.jpeg);
+    /* background-image: url(/public/images/hello.jpeg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
